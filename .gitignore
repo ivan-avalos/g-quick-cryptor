@@ -1,0 +1,9 @@
+autom4te.cache
+Debug
+Optimized
+Test
+autogen.sh
+g_quick_cryptor.anjuta
+.anjuta
+.anjuta_sym_db.db
+*~
